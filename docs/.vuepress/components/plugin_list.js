@@ -24,12 +24,6 @@ module.exports = [
         link: 'https://github.com/FishZe/zhamao_plugin_what2eat'
     },
     {
-        name: 'plugin-handle',
-        description: '炸毛框架的猜成语插件，仅适配 onebots 实现。',
-        avatar: 'https://opengraph.githubassets.com/0/AeQiQi/plugin-handle',
-        link: 'https://github.com/AeQiQi/plugin-handle'
-    },
-    {
         name: 'crazy-thursday',
         description: '疯狂星期四',
         avatar: null,
